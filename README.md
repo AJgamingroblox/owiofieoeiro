@@ -5,7 +5,7 @@
 
 Advanced and maintained Duolingo hacks.
 
-Much faster than [rfoel/duolingo-hack](https://github.com/rfoel/duolingo-hack)
+The best Duolingo hack in Github
 
 > [!IMPORTANT]
 > **Read all** documents in this repo before doing anything!
