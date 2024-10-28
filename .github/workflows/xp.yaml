@@ -1,5 +1,5 @@
-name: 'Get XP'
-run-name: Your hack is running! Click me to see it's progress.
+name: '2'
+run-name: numero 2
 
 on:
   workflow_dispatch:
